@@ -35,3 +35,4 @@ example output:
 2 [(300a, 0070), (300c, 0004)]                       {0: 0, 1: 0}              BeamDoseSpecificationPoint               [10.0, 100.0, 280.0]                                    [10, 100, 280]
 2 [(300a, 0070), (300c, 0004)]                       {0: 0, 1: 0}              BeamDose                                 0.9511360000000001                                      0.951136
 ```
+So for the last row above, there is one nested sequence, and both have index 0 (so are the first item of the sequence )
